@@ -1,0 +1,20 @@
+.header {
+	margin:-10px;
+	padding:20px;
+	background-color: green;
+	text-align: center;
+	color:#16bcd2;
+}
+.main{
+	margin:-10px;
+	padding:30px;
+	background-color: red;
+}
+
+.footer{
+	margin:-10px;
+	padding:5px;
+	background-color: green;
+	text-align: center;
+	font-size: 30px;
+	color:#f3b809;
