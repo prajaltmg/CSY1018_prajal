@@ -1,20 +1,19 @@
-.header {
-	margin:-10px;
-	padding:20px;
-	background-color: green;
-	text-align: center;
-	color:#16bcd2;
+.zero{
+	background-color:orange;
+	padding:15px;
+	margin:-9px;
 }
-.main{
-	margin:-10px;
-	padding:30px;
-	background-color: red;
+.zero1{
+	padding:10px;
+	margin:10px;
+	background-color:white;
+	text-align:center;
+	font-size: 50px;
+	font-style: italic;
 }
+.zero2{
+	padding:150px;
+	margin:-20px;
+	background-color:orange;
 
-.footer{
-	margin:-10px;
-	padding:5px;
-	background-color: green;
-	text-align: center;
-	font-size: 30px;
-	color:#f3b809;
+}
